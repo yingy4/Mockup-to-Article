@@ -1,0 +1,27 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+What new skills have you learned?
+-How to find new element such as "superscript," "horizontal rule," and "strikethrough."
+-How to use <del></del>
+-How to use <hr>
+-How to use <sup></sup>
+
+What has been easy?
+-Most of the project is easy.
+
+What has been difficult?
+-It is little confused whether I should use <del></del> or <s></s> or <strike></strike>, I just pick <del></del> randomly.
+
+How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+-The hint is very useful.
+-MDN element reference is GREAT!
